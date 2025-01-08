@@ -1,5 +1,5 @@
-train: A:\\INTERNSHIP\\GitHub_Dataset\\data\\train
-val: A:\\INTERNSHIP\\GitHub_Dataset\\data\\val
+train: /kaggle/working/ContentModeration_Dataset/train
+val: /kaggle/working/ContentModeration_Dataset/val
 nc: 26
 names: ['Hookah','Cigarette','Cigar','Grenade','Knife','Glass of Wine','Pistol','Revolver','Rifle','Medical Pills','Sex Toy','Marijuana Leaf','Marijuana Bud','Marijuana Plant','Marijuana Joint','Sword','Taser','Bazooka','Bong','Smoking Pipe','Vape','Poker Chips','Casino table','Slot Machine','Nicotine Patch','Syringe']
 
